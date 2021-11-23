@@ -16,6 +16,10 @@ const connect = function () {
       console.log(data);
   });
 
+  conn.on("connect", () => {
+    conn.write('Name: GLR');
+});
+
   return conn;
 };
 
