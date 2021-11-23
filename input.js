@@ -6,6 +6,8 @@ const handleUserInput = (key) => {
     if(key === 'a') {connection.write("Move: left")};
     if(key === 's') {connection.write("Move: down")};
     if(key === 'd') {connection.write("Move: right")};
+    if(key === 'g') {connection.write("Say: GoLilSnake!" )};
+    if(key === 'y') {connection.write("Say: Yahhh!" )};
     if (key === '\u0003') {
         process.exit();
       }
