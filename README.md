@@ -10,7 +10,7 @@ https://github.com/lighthouse-labs/snek-multiplayer.git
 
 ## Final Product
 
-!["please use 'w', 's', 'a', 'd' keys to move, 'control' + 'c' to exit game, try the 'g' or 'y' key"](#)
+!["please use 'w', 's', 'a', 'd' keys to move, 'control' + 'c' to exit game, try the 'g' or 'y' key"](#)https://github.com/GraceLR/snake-client/blob/master/SnakeGame.png
 
 
 ## Getting Started
