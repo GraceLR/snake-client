@@ -17,4 +17,4 @@ https://github.com/lighthouse-labs/snek-multiplayer.git
 
 - Follow steps inside the snek server repo to run the server side
 - Run the development snake client using the `node play.js` command.
-- Use 'w', 's', 'a', 'd' to move and 'g', 'y' for can messages.
+- Use 'w', 's', 'a', 'd' to move and 'g', 'y' for canned messages.
