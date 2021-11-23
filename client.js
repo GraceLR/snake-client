@@ -18,7 +18,23 @@ const connect = function () {
 
   conn.on("connect", () => {
     conn.write('Name: GLR');
+    // conn.write("Move: up"); 
+    // conn.write("Move: right"); 
+ 
+    // setTimeout(() => {
+    //     conn.write("Move: up");  
+    // }, 2000);
+
+    // setTimeout(() => {
+    //     conn.write("Move: left");  
+    // }, 4000);
+
+    // setInterval(() => {
+    //     conn.write("Move: up");  
+    // }, 1000)
+
 });
+
 
   return conn;
 };
