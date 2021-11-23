@@ -10,8 +10,7 @@ https://github.com/lighthouse-labs/snek-multiplayer.git
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["please use 'w', 's', 'a', 'd' keys to move, 'control' + 'c' to exit game, try the 'g' or 'y' key"](#)
 
 
 ## Getting Started
