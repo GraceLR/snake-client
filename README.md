@@ -10,10 +10,11 @@ https://github.com/lighthouse-labs/snek-multiplayer.git
 
 ## Final Product
 
-!["please use 'w', 's', 'a', 'd' keys to move, 'control' + 'c' to exit game, try the 'g' or 'y' key"](#)(https://github.com/GraceLR/snake-client/blob/master/SnakeGame.png)
+[SnakeGame Screenshot](https://github.com/GraceLR/snake-client/blob/master/SnakeGame.png)
 
 
 ## Getting Started
 
 - Follow steps inside the snek server repo to run the server side
 - Run the development snake client using the `node play.js` command.
+- Use 'w', 's', 'a', 'd' to move and 'g', 'y' for can messages.
